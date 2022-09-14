@@ -14,9 +14,8 @@ public class Questao08 {
         int tamanho = nome.length();
 
         for (int i = 0; i < tamanho; i++) {
-           
-           
-        }
 
+        }
+        sc.close();
     }
 }
